@@ -949,7 +949,6 @@ body {
         flex: 1 1 100%;
     }
 }
-
 .download-btn {
     display: inline-block;
     padding: 1rem 2rem;
@@ -1397,3 +1396,4 @@ body {
         margin-top: 4px;
     }
 }
+
