@@ -917,7 +917,7 @@ body {
 
 #cv h2 {
     font-size: 2.5rem;
-    color: #dadada;
+    color: #ffffff;
     margin-bottom: 1.5rem;
 }
 
@@ -925,6 +925,23 @@ body {
     font-size: 1.2rem;
     color: #ffffff;
     margin-bottom: 2rem;
+}
+
+.btn-cv {
+    display: inline-block;
+    padding: 12px 25px;
+    background: #6c757d; /* Gris */
+    color: #fff;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.3s ease;
+    margin-top: 0.5rem;
+    font-size: 1.1rem;
+}
+
+.btn-cv:hover {
+    background: #5a6268; /* Gris foncé au survol */
 }
 
 @media (max-width: 768px) {
